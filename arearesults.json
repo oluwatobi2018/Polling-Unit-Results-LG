@@ -1,0 +1,247 @@
+{
+	"statistics": {
+		"projectName": "Delta State Local Government Election",
+		"official": "5761",
+		"timeStamp": "2022-10-24 23:27:16",
+		"eligibleVoters": 76789,
+		"globTurnout": "37.94%",
+		"globBallotCast": 21875,
+		"globTabulators": 45,
+		"globClosedTabulators": 45,
+		"globStartedPolls": 0,
+		"globPolls": 5,
+		"globClosedPolls": 5,
+		"countinggroups": [
+				{
+					"countingGroupId": "1",
+					"countingGroupName": "Election Day",
+					"tabulators": 43,
+					"closedTabulators": 43
+				},
+				{
+					"countingGroupId": "2",
+					"countingGroupName": "Advance",
+					"tabulators": 1,
+					"closedTabulators": 1
+				},
+				{
+					"countingGroupId": "3",
+					"countingGroupName": "Mail",
+					"tabulators": 1,
+					"closedTabulators": 1
+				}
+			]
+,
+		"partyStats": [
+			]
+	},
+	"areaResults": [
+		{
+			"49": {
+				"statistics": {
+					"eligibleVoters": 57659,
+					"turnout": "37.94%",
+					"turnout2": "37.94%",
+					"ballotCast": 21875,
+					"ballotCast2": 21875,
+					"tabulators": 45,
+					"closedTabulators": 45,
+					"startedPolls": 0,
+					"polls": 5,
+					"closedPolls": 5,
+					"countinggroups": [
+							{
+								"countingGroupId": "1",
+								"countingGroupName": "Election Day",
+								"tabulators": 43,
+								"closedTabulators": 43
+							},
+							{
+								"countingGroupId": "2",
+								"countingGroupName": "Advance",
+								"tabulators": 1,
+								"closedTabulators": 1
+							},
+							{
+								"countingGroupId": "3",
+								"countingGroupName": "Mail",
+								"tabulators": 1,
+								"closedTabulators": 1
+							}
+						]
+				},
+				"contestResults": [
+					{
+						"id": "1001",
+						"contestName": "Uzor Daniel",
+						"voteFor": 1,
+						"isAcclaimed": false,
+						"eligibleVoters": 57659,
+						"turnout": "37.94%",
+						"ballotCast": 21875,
+						"sort": 1,
+						"choiceResults": [
+							{
+								"id": "1",
+								"choiceName": "Emeka Anyele",
+								"votes": 5417,
+								"percentage": "24.89%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "2",
+								"choiceName": "Owolo Oghogho",
+								"votes": 4047,
+								"percentage": "18.60%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "3",
+								"choiceName": "James Emamoke",
+								"votes": 665,
+								"percentage": "3.06%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "4",
+								"choiceName": "Paul Emmena",
+								"votes": 2007,
+								"percentage": "9.22%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "5",
+								"choiceName": "Ugoh Enifome",
+								"votes": 9626,
+								"percentage": "44.23%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 1,
+								"partyBreakdown": []
+							}
+						]
+					}
+				]
+			},
+			"31": {
+				"statistics": {
+					"eligibleVoters": 13738,
+					"turnout": "40.33%",
+					"turnout2": "40.33%",
+					"ballotCast": 5540,
+					"ballotCast2": 5540,
+					"tabulators": 13,
+					"closedTabulators": 13,
+					"startedPolls": 0,
+					"polls": 1,
+					"closedPolls": 1,
+					"countinggroups": [
+							{
+								"countingGroupId": "1",
+								"countingGroupName": "Election Day",
+								"tabulators": 11,
+								"closedTabulators": 11
+							},
+							{
+								"countingGroupId": "2",
+								"countingGroupName": "Advance",
+								"tabulators": 1,
+								"closedTabulators": 1
+							},
+							{
+								"countingGroupId": "3",
+								"countingGroupName": "Mail",
+								"tabulators": 1,
+								"closedTabulators": 1
+							}
+						]
+				},
+				"contestResults": [
+					{
+						"id": "1002",
+						"contestName": "Councillor – Ward 1",
+						"voteFor": 2,
+						"isAcclaimed": false,
+						"eligibleVoters": 13738,
+						"turnout": "40.33%",
+						"ballotCast": 5540,
+						"sort": 2,
+						"choiceResults": [
+							{
+								"id": "6",
+								"choiceName": "John Udume",
+								"votes": 2164,
+								"percentage": "23.07%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "7",
+								"choiceName": "James Ukor",
+								"votes": 3255,
+								"percentage": "34.70%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 1,
+								"partyBreakdown": []
+							},
+							{
+								"id": "8",
+								"choiceName": "Michael Paul",
+								"votes": 498,
+								"percentage": "5.31%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "9",
+								"choiceName": "Prosper Egogo",
+								"votes": 564,
+								"percentage": "6.01%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 0,
+								"partyBreakdown": []
+							},
+							{
+								"id": "10",
+								"choiceName": "Felix Omudame",
+								"votes": 2900,
+								"percentage": "30.91%",
+								"isIncumbent": 0,
+								"isDisabled": 0,
+								"gender": "Unknown",
+								"isWinner": 1,
+								"partyBreakdown": []
+							}
+						]
+					}
+				]
+			},
+			
+			
