@@ -15,23 +15,7 @@ define([
     var areatypeID = "";
 
     Models.AreaModel = Backbone.Model.extend({
-        //
-        //            parse: function(model){
-        //
-        //                if(_.has(model, 'parentAreaId')){
-        //
-        //                    var subAreas = model.parentAreaId;
-        //                    if(!_.has(this, 'subAreas')){
-        //                        this.subAreas = new Collections.SubAreasCollection(subAreas);
-        //                    } else {
-        //                        this.subAreas.reset(subAreas);
-        //                    }
-        //
-        //                    delete model.subAreas;
-        //                }
-        //
-        //                return model;
-        //            }
+        
     });
 
     Collections.AreaCollection = Backbone.Collection.extend({
